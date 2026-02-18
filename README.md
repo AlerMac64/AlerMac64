@@ -1,19 +1,19 @@
 # hi, i'm aleksandr.
 
-junior full-stack developer based in dubai. 
-focusing on building clean, secure and production-ready applications.
+security-focused developer.
+specializing in building resilient systems and integrating security into the full-stack lifecycle.
 
 ---
 
-### ○ about
+### about
 - junior full-stack developer
 - senior cs student @ uowd, top 5% of faculty
 - fluent in russian (native) & english (advanced)
-- math tutor for high school students
+- passionate about cybersecurity & vulnerability management
 
 ---
 
-### ○ stack
+### stack
 - **languages:** typescript, javascript, python, c++
 - **frontend:** next.js, react, tailwind css, html/css
 - **backend:** node.js, express, rest, websocket
