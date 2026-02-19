@@ -20,14 +20,4 @@ specializing in building resilient systems and integrating security into the ful
 - **data:** postgresql, mongodb, redis, mysql
 - **security:** ci/cd security, sast/dast, nmap, wireshark
 
----
-
-```ascii
-   .---. ,---..-.   .-.,---.  .-. .-. 
-  ( .-._)| .-' \ \ / / | .-'  |  \| | 
- (_) \   | `-.  \ V /  | `-.  |   | | 
- _  \ \  | .-'   ) /   | .-'  | |\  | 
-( `-'  ) |  `--.(_)    |  `--.| | |)| 
- `----'  /( __.'       /( __.'/(  (_) 
-        (__)          (__)   (__)     
-                                         
+---                                      
